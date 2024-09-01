@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shas</h1>
-<h3 align="center">I am a full stack developer from Singapore!</h3>
+<h3 align="center">🚀 Full Stack Engineer | Product Manager | Audio Engineer
+</h3>
+<h4 align="center">📍 Singapore 🇸🇬</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shas22&label=Profile%20views&color=0e75b6&style=flat" alt="shas22" /> </p>
 
