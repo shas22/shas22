@@ -3,6 +3,8 @@
 </h3>
 <h4 align="center">📍 Singapore 🇸🇬</h4>
 
+*With over 7 years of experience in the tech industry, I've developed deep expertise in full-stack development, blockchain technologies, and AI integration. My background spans 5+ years in React and Node.js development, 3+ years working with blockchain and Web3, and 2 years in product management. I've also maintained a parallel career in audio engineering for 7+ years, bringing a unique blend of technical and creative skills to my work.*
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shas22&label=Profile%20views&color=0e75b6&style=flat" alt="shas22" /> </p>
 
 - 🌱 I’m currently **learning Rust**, **grinding Leetcode** and **building Overengineered**
