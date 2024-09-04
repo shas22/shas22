@@ -3,7 +3,7 @@
 </h3>
 <h4 align="center">📍 Singapore 🇸🇬</h4>
 
-*With over 7 years of experience in the tech industry, I've developed deep expertise in full-stack development, blockchain technologies, and AI integration. My background spans 5+ years in React and Node.js development, 3+ years working with blockchain and Web3, and 2 years in product management. I've also maintained a parallel career in audio engineering for 7+ years, bringing a unique blend of technical and creative skills to my work.*
+*With over 7 years in the tech industry, I've honed my skills across a broad spectrum of software engineering disciplines. My expertise lies in architecting and implementing robust full-stack solutions, with a particular focus on emerging technologies. I've spent half a decade mastering modern frontend and backend development, while also diving deep into decentralized systems and smart contract development for the past three years. Complementing my technical skills, I bring two years of product management experience, bridging the gap between technical possibilities and business needs. Throughout my tech career, I've also maintained a parallel path in audio engineering for over 7 years, bringing a unique blend of technical precision and creative problem-solving to all my projects.*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shas22&label=Profile%20views&color=0e75b6&style=flat" alt="shas22" /> </p>
 
