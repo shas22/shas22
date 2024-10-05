@@ -3,7 +3,7 @@
 </h3>
 <h4 align="center">📍 Singapore 🇸🇬</h4>
 
-*With over 7 years in the tech industry, I've honed my skills across a broad spectrum of software engineering disciplines. My expertise lies in architecting and implementing robust full-stack solutions, with a particular focus on emerging technologies. I've spent half a decade mastering modern frontend and backend development, while also diving deep into decentralized systems and smart contract development for the past three years. Complementing my technical skills, I bring two years of product management experience, bridging the gap between technical possibilities and business needs. Throughout my tech career, I've also maintained a parallel path in audio engineering for over 7 years, bringing a unique blend of technical precision and creative problem-solving to all my projects.*
+*With over 7 years in the tech industry, I've honed my skills across a broad spectrum of software engineering disciplines. My expertise lies in architecting and implementing robust full-stack solutions. I've spent half a decade mastering modern frontend and backend development, while also diving deep into decentralized systems and smart contract development for the past three years. Complementing my technical skills, I bring two years of product management experience, bridging the gap between technical possibilities and business needs.*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shas22&label=Profile%20views&color=0e75b6&style=flat" alt="shas22" /> </p>
 
