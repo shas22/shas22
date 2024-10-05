@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shas</h1>
-<h3 align="center">🚀 Full Stack Engineer | Product Manager | Audio Engineer
+<h3 align="center">🚀 Full Stack Engineer | Product Manager 
 </h3>
 <h4 align="center">📍 Singapore 🇸🇬</h4>
 
